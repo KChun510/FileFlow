@@ -107,21 +107,21 @@ displayHelpText(){
 Usage:
 ./qSystem.sh <cont_dir> <fileName> <postDate> <postTime>
 -or-
-./qSystem.sh <cont_dir> Semi guided proccess.
+./qSystem.sh <cont_dir> Semi guided process.
 -or-
-./qSystem.sh		Fully guided proccess.
+./qSystem.sh		          Fully guided process.
 
 Fields/ClI args:
-<cont_dir>		Dir name where file located.
-<fileName>		Name of file whithin dir.
+<cont_dir>		            Dir name where file located.
+<fileName>		            Name of file whithin dir.
 <postDate>              Format: mm/dd/yyyy -or- "now"
-<postTime>		Format (24hr): hh:mm:ss -or- "now"
+<postTime>		            Format (24hr): hh:mm:ss -or- "now"
 
 Flags:
--listQ			List our Qed files.
--list <dir_name>	Returns fileNames + Creation date/time.
--del <Filename>		Delete an entry via fileName.
--h			List help text.
+-listQ			               List our Qed files.
+-list <dir_name>	       Returns fileNames + Creation date/time.
+-del <Filename>		       Delete an entry via fileName.
+-h			                   List help text.
 
 EOF
 }
