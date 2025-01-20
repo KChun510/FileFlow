@@ -11,8 +11,6 @@ A lightweight, command-line tool for managing and processing file queues efficie
 3. [Usage](#usage)
 4. [Flags and Options](#flags-and-options)
 5. [Examples](#examples)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ---
 
